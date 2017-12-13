@@ -1,0 +1,37 @@
+baseURL = "https://garciasa.es/"
+languageCode = "es-ES"
+title = "@garciasa"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
+[params]
+  description = "Someday I'll write something..."
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/main.jpg"
+  author = "Antonio G"
+  authorlocation = "Planet Earth"
+  authorwebsite = "http://garciasa.es"
+  authorbio= "Dad, Husband, Maker, Software Engineer..."
+  # logo = "images/logo.png"
+  # googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  twitterName = "garciasa"
+  githubName = "garciasa"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+
+  disableRSS = true
+
+  share = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"  
+
+[params.social]
+  twitter = "@garciasa"
+  
